@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.barra-nave{
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+.fondo-portada {
+    background-image: url("../img/imagen_portada.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+   width: 100vw;
+   height: 100vh;
+   
+}
+
+.h1portada {
+    
+    top: 200px;
+    color: #f5a142;
+    text-shadow: 1px 1px black;
+    margin-left: 5px;
+    font-family: 'Playfair Display SC', serif;
+    /* font-family: 'Source Serif Pro', serif; */
+    
+    
+}
+
+.h3portada {
+    
+    top: 250px;
+    color: #f5a142;
+    text-shadow: 1px 1px black;
+    margin-left: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pasion{
+  background-image: url("../img/madera-fondo-pasion.jpg");
+  
+}
+
+.h2pasion{
+  color: #fff;
+  font-family: 'DM Serif Display', serif;
+}
+
+
+.h3pasion{
+    padding-top: 5px;
+     color: #f5a142;
+     font-family: 'DM Serif Display', serif;
+ 
+    
+ }
+
+.ppasion{
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;  
+} 
+
+/* .ppasion:hover{
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: medium;
+  font-family: 'Poppins', sans-serif;
+
+  animation-name: mover;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
+  animation-delay: 0s;
+  
+  
+}
+
+@keyframes mover {
+    from {
+      transform: translateY(100px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+  } */
+
+
+.trabajos {
+    
+    background-image: url(../img/fondo_trabajos.jpg);
+    
+    
+}
+
+.h2trabajos {
+    padding-top: 5px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+.ptrabajos {
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+.precios {
+    /*background-color: black;*/
+    background-image: url(../img/fondo_trabajos.jpg);
+    
+}
+
+.h2precios {
+    padding-top: 5px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+.pprecios {
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+.testi {
+    background-image: url(../img/fondo_testimonios.jpg);
+}
+
+.h2testi {
+
+    color: #f5a142;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+}
+.ptesti{
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+  .carousel{
+    margin-top: 20px;
+  }
+  .carousel-inner{
+    height: 150px;
+  }
+  .carousel-caption{
+    color: #fff;
+    top: 50%;
+  }
+
+.tur {
+    background-image: url(../img/fondo_turnos.jpg);
+}
+
+.h2turnos {
+    padding-top: 5px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+
+
+}
+
+.pturnos{
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+.h3servicios{
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px black;
+    font-family: 'DM Serif Display', serif;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer{
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+
+.boton-flot{
+    position: fixed; bottom: 20px; right: 20px;
+}
